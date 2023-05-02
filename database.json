@@ -135,7 +135,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 1
+      "id": 1,
+      "price": 500
     },
     {
       "slug": "amulet-of-health",
@@ -146,7 +147,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 2
+      "id": 2,
+      "price": 8000
     },
     {
       "slug": "amulet-of-proof-against-detection-and-location",
@@ -157,7 +159,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 3
+      "id": 3,
+      "price": 20000
     },
     {
       "slug": "amulet-of-the-planes",
@@ -168,7 +171,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 4
+      "id": 4,
+      "price": 160000
     },
     {
       "slug": "animated-shield",
@@ -179,7 +183,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 5
+      "id": 5,
+      "price": 6000
     },
     {
       "slug": "apparatus-of-the-crab",
@@ -190,7 +195,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 6
+      "id": 6,
+      "price": 90000
     },
     {
       "slug": "armor-of-invulnerability",
@@ -201,7 +207,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 7
+      "id": 7,
+      "price": 18000
     },
     {
       "slug": "armor-of-resistance",
@@ -212,7 +219,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 8
+      "id": 8,
+      "price": 6000
     },
     {
       "slug": "armor-of-vulnerability",
@@ -223,7 +231,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 9
+      "id": 9,
+      "price": 5000
     },
     {
       "slug": "arrow-catching-shield",
@@ -234,7 +243,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 10
+      "id": 10,
+      "price": 6000
     },
     {
       "slug": "arrow-of-slaying",
@@ -245,7 +255,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 11
+      "id": 11,
+      "price": 600
     },
     {
       "slug": "bag-of-beans",
@@ -256,7 +267,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 12
+      "id": 12,
+      "price": 2500
     },
     {
       "slug": "bag-of-devouring",
@@ -267,7 +279,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 13
+      "id": 13,
+      "price": 6500
     },
     {
       "slug": "bag-of-holding",
@@ -278,7 +291,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 14
+      "id": 14,
+      "price": 3000
     },
     {
       "slug": "bag-of-tricks",
@@ -289,7 +303,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 15
+      "id": 15,
+      "price": 3400
     },
     {
       "slug": "bead-of-force",
@@ -300,7 +315,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 16
+      "id": 16,
+      "price": 3000
     },
     {
       "slug": "belt-of-dwarvenkind",
@@ -311,18 +327,20 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 17
+      "id": 17,
+      "price": 13000
     },
     {
-      "slug": "belt-of-giant-strength",
-      "name": "Belt of Giant Strength",
+      "slug": "belt-of-hill-giant-strength",
+      "name": "Belt of Hill Giant Strength",
       "type": "Wondrous item",
-      "desc": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.\n\nSix varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The _belt of stone giant strength_ and the _belt of frost giant strength_ look different, but they have the same effect.\n\n| Type              | Strength | Rarity    |\n|-------------------|----------|-----------|\n| Hill giant        | 21       | Rare      |\n| Stone/frost giant | 23       | Very rare |\n| Fire giant        | 25       | Very rare |\n| Cloud giant       | 27       | Legendary |\n| Storm giant       | 29       | Legendary |",
-      "rarity": "varies",
+      "desc": "While wearing this belt, your Strength score changes to 21. The item has no effect on you if your Strength without the belt is equal to or greater than 21.",
+      "rarity": "rare",
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 18
+      "id": 18,
+      "price": 5000
     },
     {
       "slug": "berserker-axe",
@@ -333,7 +351,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 19
+      "id": 19,
+      "price": 2400
     },
     {
       "slug": "boots-of-elvenkind",
@@ -344,7 +363,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 20
+      "id": 20,
+      "price": 2500
     },
     {
       "slug": "boots-of-levitation",
@@ -355,7 +375,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 21
+      "id": 21,
+      "price": 4000
     },
     {
       "slug": "boots-of-speed",
@@ -366,7 +387,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 22
+      "id": 22,
+      "price": 4000
     },
     {
       "slug": "boots-of-striding-and-springing",
@@ -377,7 +399,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 23
+      "id": 23,
+      "price": 500
     },
     {
       "slug": "boots-of-the-winterlands",
@@ -388,7 +411,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 24
+      "id": 24,
+      "price": 650
     },
     {
       "slug": "bowl-of-commanding-water-elementals",
@@ -399,7 +423,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 25
+      "id": 25,
+      "price": 3000
     },
     {
       "slug": "bracers-of-archery",
@@ -410,7 +435,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 26
+      "id": 26,
+      "price": 800
     },
     {
       "slug": "bracers-of-defense",
@@ -421,7 +447,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 27
+      "id": 27,
+      "price": 1500
     },
     {
       "slug": "brazier-of-commanding-fire-elementals",
@@ -432,7 +459,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 28
+      "id": 28,
+      "price": 4500
     },
     {
       "slug": "brooch-of-shielding",
@@ -443,7 +471,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 29
+      "id": 29,
+      "price": 1000
     },
     {
       "slug": "broom-of-flying",
@@ -454,7 +483,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 30
+      "id": 30,
+      "price": 2500
     },
     {
       "slug": "candle-of-invocation",
@@ -465,7 +495,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 31
+      "id": 31,
+      "price": 10000
     },
     {
       "slug": "cape-of-the-mountebank",
@@ -476,7 +507,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 32
+      "id": 32,
+      "price": 2000
     },
     {
       "slug": "carpet-of-flying",
@@ -487,7 +519,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 33
+      "id": 33,
+      "price": 12000
     },
     {
       "slug": "censer-of-controlling-air-elementals",
@@ -498,7 +531,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 34
+      "id": 34,
+      "price": 4000
     },
     {
       "slug": "chime-of-opening",
@@ -509,7 +543,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 35
+      "id": 35,
+      "price": 1500
     },
     {
       "slug": "circlet-of-blasting",
@@ -520,7 +555,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 36
+      "id": 36,
+      "price": 800
     },
     {
       "slug": "cloak-of-arachnida",
@@ -531,7 +567,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 37
+      "id": 37,
+      "price": 4000
     },
     {
       "slug": "cloak-of-displacement",
@@ -542,7 +579,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 38
+      "id": 38,
+      "price": 2350
     },
     {
       "slug": "cloak-of-elvenkind",
@@ -553,7 +591,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 39
+      "id": 39,
+      "price": 800
     },
     {
       "slug": "cloak-of-protection",
@@ -564,7 +603,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 40
+      "id": 40,
+      "price": 900
     },
     {
       "slug": "cloak-of-the-bat",
@@ -575,7 +615,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 41
+      "id": 41,
+      "price": 3500
     },
     {
       "slug": "cloak-of-the-manta-ray",
@@ -586,18 +627,20 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 42
+      "id": 42,
+      "price": 1200
     },
     {
       "slug": "crystal-ball",
       "name": "Crystal Ball",
       "type": "Wondrous item",
       "desc": "The typical _crystal ball_, a very rare item, is about 6 inches in diameter. While touching it, you can cast the _scrying_ spell (save DC 17) with it.\n\nThe following _crystal ball_ variants are legendary items and have additional properties.\n\n**_Crystal Ball of Mind Reading_**. You can use an action to cast the _detect thoughts_ spell (save DC 17) while you are scrying with the _crystal ball_, targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this _detect thoughts_ to maintain it during its duration, but it ends if _scrying_ ends.\n\n**_Crystal Ball of Telepathy_**. While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also use an action to cast the _suggestion_ spell (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this _suggestion_ to maintain it during its duration, but it ends if _scrying_ ends. Once used, the _suggestion_ power of the _crystal ball_ can't be used again until the next dawn.\n\n**_Crystal Ball of True Seeing_**. While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell's sensor.",
-      "rarity": "very rare or legendary",
+      "rarity": "very rare",
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 43
+      "id": 43,
+      "price": 12000
     },
     {
       "slug": "cube-of-force",
@@ -608,7 +651,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 44
+      "id": 44,
+      "price": 16000
     },
     {
       "slug": "cubic-gate",
@@ -619,7 +663,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 45
+      "id": 45,
+      "price": 40000
     },
     {
       "slug": "dagger-of-venom",
@@ -630,7 +675,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 46
+      "id": 46,
+      "price": 2000
     },
     {
       "slug": "dancing-sword",
@@ -641,18 +687,20 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 47
+      "id": 47,
+      "price": 2000
     },
     {
       "slug": "decanter-of-endless-water",
       "name": "Decanter of Endless Water",
       "type": "Wondrous item",
       "desc": "This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.\n\nYou can use an action to remove the stopper and speak one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following options:\n\n* \"Stream\" produces 1 gallon of water.\n* \"Fountain\" produces 5 gallons of water.\n* \"Geyser\" produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 48
+      "id": 48,
+      "price": 15000
     },
     {
       "slug": "deck-of-illusions",
@@ -663,7 +711,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 49
+      "id": 49,
+      "price": 450
     },
     {
       "slug": "deck-of-many-things",
@@ -674,7 +723,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 50
+      "id": 50,
+      "price": 240000
     },
     {
       "slug": "defender",
@@ -685,7 +735,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 51
+      "id": 51,
+      "price": 24000
     },
     {
       "slug": "demon-armor",
@@ -696,7 +747,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 52
+      "id": 52,
+      "price": 12500
     },
     {
       "slug": "dimensional-shackles",
@@ -707,7 +759,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 53
+      "id": 53,
+      "price": 2500
     },
     {
       "slug": "dragon-scale-mail",
@@ -718,7 +771,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 54
+      "id": 54,
+      "price": 4000
     },
     {
       "slug": "dragon-slayer",
@@ -729,7 +783,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 55
+      "id": 55,
+      "price": 4000
     },
     {
       "slug": "dust-of-disappearance",
@@ -740,7 +795,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 56
+      "id": 56,
+      "price": 200
     },
     {
       "slug": "dust-of-dryness",
@@ -751,7 +807,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 57
+      "id": 57,
+      "price": 100
     },
     {
       "slug": "dust-of-sneezing-and-choking",
@@ -762,7 +819,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 58
+      "id": 58,
+      "price": 500
     },
     {
       "slug": "dwarven-plate",
@@ -773,7 +831,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 59
+      "id": 59,
+      "price": 7500
     },
     {
       "slug": "dwarven-thrower",
@@ -784,7 +843,8 @@
       "requires_attunement": "requires attunement by a dwarf",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 60
+      "id": 60,
+      "price": 15000
     },
     {
       "slug": "efficient-quiver",
@@ -795,7 +855,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 61
+      "id": 61,
+      "price": 1000
     },
     {
       "slug": "efreeti-bottle",
@@ -806,7 +867,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 62
+      "id": 62,
+      "price": 100000
     },
     {
       "slug": "elemental-gem",
@@ -817,7 +879,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 63
+      "id": 63,
+      "price": 700
     },
     {
       "slug": "elven-chain",
@@ -828,7 +891,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 64
+      "id": 64,
+      "price": 4000
     },
     {
       "slug": "eversmoking-bottle",
@@ -839,7 +903,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 65
+      "id": 65,
+      "price": 1000
     },
     {
       "slug": "eyes-of-charming",
@@ -850,7 +915,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 66
+      "id": 66,
+      "price": 2400
     },
     {
       "slug": "eyes-of-minute-seeing",
@@ -861,7 +927,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 67
+      "id": 67,
+      "price": 1000
     },
     {
       "slug": "eyes-of-the-eagle",
@@ -872,7 +939,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 68
+      "id": 68,
+      "price": 1500
     },
     {
       "slug": "feather-token",
@@ -883,18 +951,20 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 69
+      "id": 69,
+      "price": 2350
     },
     {
-      "slug": "figurine-of-wondrous-power",
+      "slug": "bronze-griffon-figurine-of-wondrous-power",
       "name": "Figurine of Wondrous Power",
       "type": "Wondrous item",
-      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\n**_Bronze Griffon (Rare)_**. This bronze statuette is of a griffon rampant. It can become a griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.\n\n**_Ebony Fly (Rare)_**. This ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.\n\n> ##### Giant Fly\n> **Armor Class** 11  \n> **Hit Points** 19 (3d10 + 3)  \n> **Speed** 30 ft., fly 60 ft.\n>\n> | STR     | DEX     | CON     | INT    | WIS     | CHA    |\n> |---------|---------|---------|--------|---------|--------|\n> | 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |\n>\n> **Senses** darkvision 60 ft., passive Perception 10  \n> **Languages** -\n\n**_Golden Lions (Rare)_**. These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.\n\n**_Ivory Goats (Rare)_**. These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:\n\n* The _goat of traveling_ can become a Large goat with the same statistics as a riding horse. It has 24 charges, and each hour or portion thereof it spends in beast form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all its charges.\n* The _goat of travail_ becomes a giant goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.\n* The _goat of terror_ becomes a giant goat for up to 3 hours. The goat can't attack, but you can remove its horns and use them as weapons. One horn becomes a _+1 lance_, and the other becomes a _+2 longsword_. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form. In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a DC 15 Wisdom saving throw or be frightened of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat's aura for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.\n\n**_Marble Elephant (Rare)_**. This marble statuette is about 4 inches high and long. It can become an elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.\n\n**_Obsidian Steed (Very Rare)_**. This polished obsidian horse can become a nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.\n\nIf you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form.\n\n**_Onyx Dog (Rare)_**. This onyx statuette of a dog can become a mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has darkvision out to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.\n\n**_Serpentine Owl (Rare)_**. This serpentine statuette of an owl can become a giant owl for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.\n\n**_Silver Raven (Uncommon)_**. This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the _animal messenger_ spell on it at will.",
-      "rarity": "rarity by figurine",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis bronze statuette is of a griffon rampant. It can become a griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.",
+      "rarity": "rare",
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 70
+      "id": 70,
+      "price": 5000
     },
     {
       "slug": "flame-tongue",
@@ -905,7 +975,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 71
+      "id": 71,
+      "price": 5000
     },
     {
       "slug": "folding-boat",
@@ -916,7 +987,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 72
+      "id": 72,
+      "price": 8000
     },
     {
       "slug": "frost-brand",
@@ -927,7 +999,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 73
+      "id": 73,
+      "price": 2500
     },
     {
       "slug": "gauntlets-of-ogre-power",
@@ -938,7 +1011,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 74
+      "id": 74,
+      "price": 3000
     },
     {
       "slug": "gem-of-brightness",
@@ -949,7 +1023,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 75
+      "id": 75,
+      "price": 2350
     },
     {
       "slug": "gem-of-seeing",
@@ -960,7 +1035,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 76
+      "id": 76,
+      "price": 10000
     },
     {
       "slug": "giant-slayer",
@@ -971,7 +1047,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 77
+      "id": 77,
+      "price": 7000
     },
     {
       "slug": "glamoured-studded-leather",
@@ -982,7 +1059,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 78
+      "id": 78,
+      "price": 1500
     },
     {
       "slug": "gloves-of-missile-snaring",
@@ -993,7 +1071,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 79
+      "id": 79,
+      "price": 750
     },
     {
       "slug": "gloves-of-swimming-and-climbing",
@@ -1004,7 +1083,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 80
+      "id": 80,
+      "price": 1000
     },
     {
       "slug": "goggles-of-night",
@@ -1015,7 +1095,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 81
+      "id": 81,
+      "price": 1200
     },
     {
       "slug": "hammer-of-thunderbolts",
@@ -1026,7 +1107,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 82
+      "id": 82,
+      "price": 16000
     },
     {
       "slug": "handy-haversack",
@@ -1037,7 +1119,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 83
+      "id": 83,
+      "price": 1800
     },
     {
       "slug": "hat-of-disguise",
@@ -1048,7 +1131,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 84
+      "id": 84,
+      "price": 3500
     },
     {
       "slug": "headband-of-intellect",
@@ -1059,7 +1143,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 85
+      "id": 85,
+      "price": 5000
     },
     {
       "slug": "helm-of-brilliance",
@@ -1070,7 +1155,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 86
+      "id": 86,
+      "price": 75000
     },
     {
       "slug": "helm-of-comprehending-languages",
@@ -1081,7 +1167,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 87
+      "id": 87,
+      "price": 300
     },
     {
       "slug": "helm-of-telepathy",
@@ -1092,7 +1179,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 88
+      "id": 88,
+      "price": 1200
     },
     {
       "slug": "helm-of-teleportation",
@@ -1103,7 +1191,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 89
+      "id": 89,
+      "price": 50000
     },
     {
       "slug": "holy-avenger",
@@ -1114,7 +1203,8 @@
       "requires_attunement": "requires attunement by a paladin",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 90
+      "id": 90,
+      "price": 170000
     },
     {
       "slug": "horn-of-blasting",
@@ -1125,18 +1215,20 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 91
+      "id": 91,
+      "price": 450
     },
     {
-      "slug": "horn-of-valhalla",
-      "name": "Horn of Valhalla",
+      "slug": "silver-horn-of-valhalla",
+      "name": "Silver Horn of Valhalla",
       "type": "Wondrous item",
-      "desc": "You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.\n\nFour types of _horn of Valhalla_ are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.\n\n| d100   | Horn Type | Berserkers Summoned | Requirement                          |\n|--------|-----------|---------------------|--------------------------------------|\n| 01-40  | Silver    | 2d4 + 2             | None                                 |\n| 41-75  | Brass     | 3d4 + 3             | Proficiency with all simple weapons  |\n| 76-90  | Bronze    | 4d4 + 4             | Proficiency with all medium armor    |\n| 91-00  | Iron      | 5d4 + 5             | Proficiency with all martial weapons |\n\nIf you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.",
-      "rarity": "rare (silver or brass), very rare (bronze) or legendary (iron)",
+      "desc": "You can use an action to blow this horn. In response, 2d4+2 warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.",
+      "rarity": "rare",
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 92
+      "id": 92,
+      "price": 2300
     },
     {
       "slug": "horseshoes-of-a-zephyr",
@@ -1147,7 +1239,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 93
+      "id": 93,
+      "price": 1500
     },
     {
       "slug": "horseshoes-of-speed",
@@ -1158,7 +1251,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 94
+      "id": 94,
+      "price": 2500
     },
     {
       "slug": "immovable-rod",
@@ -1169,7 +1263,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 95
+      "id": 95,
+      "price": 4000
     },
     {
       "slug": "instant-fortress",
@@ -1180,18 +1275,20 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 96
+      "id": 96,
+      "price": 50000
     },
     {
-      "slug": "ioun-stone",
-      "name": "Ioun Stone",
+      "slug": "ioun-stone-absorption",
+      "name": "Ioun Stone of Absorption",
       "type": "Wondrous item",
-      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\n**_Absorption (Very Rare)_**. While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.\n\nOnce the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.\n\n**_Agility (Very Rare)_**. Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.\n\n**_Awareness (Rare)_**. You can't be surprised while this dark blue rhomboid orbits your head.\n\n**_Fortitude (Very Rare)_**. Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.\n\n**_Greater Absorption (Legendary)_**. While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you.\n\nOnce the stone has canceled 50 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.\n\n**_Insight (Very Rare)_**. Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.\n\n**_Intellect (Very Rare)_**. Your Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.\n\n**_Leadership (Very Rare)_**. Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.\n\n**_Mastery (Legendary)_**. Your proficiency bonus increases by 1 while this pale green prism orbits your head.\n\n**_Protection (Rare)_**. You gain a +1 bonus to AC while this dusty rose prism orbits your head.\n\n**_Regeneration (Legendary)_**. You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point.\n\n**_Reserve (Rare)_**. This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4 - 1 levels of stored spells chosen by the GM.\n\nAny creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.\n\nWhile this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.\n\n**_Strength (Very Rare)_**. Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.\n\n**_Sustenance (Rare)_**. You don't need to eat or drink while this clear spindle orbits your head.",
-      "rarity": "varies",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\n**_Absorption (Very Rare)_**. While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.\n\nOnce the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.",
+      "rarity": "very rare",
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 97
+      "id": 97,
+      "price": 2500
     },
     {
       "slug": "iron-bands-of-binding",
@@ -1202,7 +1299,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 98
+      "id": 98,
+      "price": 4000
     },
     {
       "slug": "iron-flask",
@@ -1213,7 +1311,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 99
+      "id": 99,
+      "price":150000
     },
     {
       "slug": "javelin-of-lightning",
@@ -1224,7 +1323,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 100
+      "id": 100,
+      "price": 1500
     },
     {
       "slug": "lantern-of-revealing",
@@ -1235,7 +1335,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 101
+      "id": 101,
+      "price": 5000
     },
     {
       "slug": "luck-blade",
@@ -1246,7 +1347,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 102
+      "id": 102,
+      "price": 142000
     },
     {
       "slug": "mace-of-disruption",
@@ -1257,7 +1359,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 103
+      "id": 103,
+      "price": 8000
     },
     {
       "slug": "mace-of-smiting",
@@ -1268,7 +1371,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 104
+      "id": 104,
+      "price": 7000
     },
     {
       "slug": "mace-of-terror",
@@ -1279,7 +1383,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 105
+      "id": 105,
+      "price": 7000
     },
     {
       "slug": "mantle-of-spell-resistance",
@@ -1290,7 +1395,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 106
+      "id": 106,
+      "price": 10000
     },
     {
       "slug": "manual-of-bodily-health",
@@ -1301,7 +1407,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 107
+      "id": 107,
+      "price": 20000
     },
     {
       "slug": "manual-of-gainful-exercise",
@@ -1312,7 +1419,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 108
+      "id": 108,
+      "price": 25000
     },
     {
       "slug": "manual-of-golems",
@@ -1323,7 +1431,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 109
+      "id": 109,
+      "price": 31000
     },
     {
       "slug": "manual-of-quickness-of-action",
@@ -1334,7 +1443,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 110
+      "id": 110,
+      "price": 25000
     },
     {
       "slug": "marvelous-pigments",
@@ -1345,7 +1455,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 111
+      "id": 111,
+      "price": 300
     },
     {
       "slug": "medallion-of-thoughts",
@@ -1356,7 +1467,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 112
+      "id": 112,
+      "price": 3000
     },
     {
       "slug": "mirror-of-life-trapping",
@@ -1367,7 +1479,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 113
+      "id": 113,
+      "price": 18000
     },
     {
       "slug": "mithral-armor",
@@ -1378,7 +1491,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 114
+      "id": 114,
+      "price": 500
     },
     {
       "slug": "necklace-of-adaptation",
@@ -1389,7 +1503,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 115
+      "id": 115,
+      "price": 700
     },
     {
       "slug": "necklace-of-fireballs",
@@ -1400,7 +1515,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 116
+      "id": 116,
+      "price": 4500
     },
     {
       "slug": "necklace-of-prayer-beads",
@@ -1411,7 +1527,8 @@
       "requires_attunement": "requires attunement by a cleric, druid, or paladin",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 117
+      "id": 117,
+      "price": 9000
     },
     {
       "slug": "nine-lives-stealer",
@@ -1422,7 +1539,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 118
+      "id": 118,
+      "price": 8000
     },
     {
       "slug": "oathbow",
@@ -1433,7 +1551,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 119
+      "id": 119,
+      "price": 3500
     },
     {
       "slug": "oil-of-etherealness",
@@ -1444,7 +1563,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 120
+      "id": 120,
+      "price": 1500
     },
     {
       "slug": "oil-of-sharpness",
@@ -1455,7 +1575,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 121
+      "id": 121,
+      "price": 3200
     },
     {
       "slug": "oil-of-slipperiness",
@@ -1466,7 +1587,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 122
+      "id": 122,
+      "price": 400
     },
     {
       "slug": "pearl-of-power",
@@ -1477,7 +1599,8 @@
       "requires_attunement": "requires attunement by a spellcaster",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 123
+      "id": 123,
+      "price": 2000
     },
     {
       "slug": "periapt-of-health",
@@ -1488,7 +1611,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 124
+      "id": 124,
+      "price": 3000
     },
     {
       "slug": "periapt-of-proof-against-poison",
@@ -1499,7 +1623,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 125
+      "id": 125,
+      "price": 3500
     },
     {
       "slug": "periapt-of-wound-closure",
@@ -1510,7 +1635,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 126
+      "id": 126,
+      "price": 5000
     },
     {
       "slug": "philter-of-love",
@@ -1521,7 +1647,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 127
+      "id": 127,
+      "price": 100
     },
     {
       "slug": "pipes-of-haunting",
@@ -1532,7 +1659,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 128
+      "id": 128,
+      "price": 2500
     },
     {
       "slug": "pipes-of-the-sewers",
@@ -1543,7 +1671,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 129
+      "id": 129,
+      "price": 1500
     },
     {
       "slug": "plate-armor-of-etherealness",
@@ -1554,7 +1683,8 @@
       "requires_attunement": "requires attunement",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 130
+      "id": 130,
+      "price": 45000
     },
     {
       "slug": "portable-hole",
@@ -1565,7 +1695,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 131
+      "id": 131,
+      "price": 8000
     },
     {
       "slug": "potion-of-animal-friendship",
@@ -1576,7 +1707,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 132
+      "id": 132,
+      "price": 100
     },
     {
       "slug": "potion-of-clairvoyance",
@@ -1587,7 +1719,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 133
+      "id": 133,
+      "price": 900
     },
     {
       "slug": "potion-of-climbing",
@@ -1598,7 +1731,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 134
+      "id": 134,
+      "price": 100
     },
     {
       "slug": "potion-of-diminution",
@@ -1609,7 +1743,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 135
+      "id": 135,
+      "price": 250
     },
     {
       "slug": "potion-of-flying",
@@ -1620,7 +1755,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 136
+      "id": 136,
+      "price": 500
     },
     {
       "slug": "potion-of-gaseous-form",
@@ -1631,7 +1767,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 137
+      "id": 137,
+      "price": 250
     },
     {
       "slug": "potion-of-giant-strength",
@@ -1653,7 +1790,8 @@
       "requires_attunement": "",
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
-      "id": 139
+      "id": 139,
+      "price": 250
     },
     {
       "slug": "potion-of-healing",
@@ -2732,6 +2870,385 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 237
+    },
+    {
+      "slug": "belt-of-frost-giant-strength",
+      "name": "Belt of Frost Giant Strength",
+      "type": "Wondrous item",
+      "desc": "While wearing this belt, your Strength score changes to 23. The item has no effect on you if your Strength without the belt is equal to or greater than 23.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 238
+   },
+   {
+      "slug": "belt-of-stone-giant-strength",
+      "name": "Belt of Stone Giant Strength",
+      "type": "Wondrous item",
+      "desc": "While wearing this belt, your Strength score changes to 23. The item has no effect on you if your Strength without the belt is equal to or greater than 23.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 239
+    },
+    {
+      "slug": "belt-of-fire-giant-strength",
+      "name": "Belt of Fire Giant Strength",
+      "type": "Wondrous item",
+      "desc": "While wearing this belt, your Strength score changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than 25.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 240
+    },
+    {
+      "slug": "belt-of-cloud-giant-strength",
+      "name": "Belt of Cloud Giant Strength",
+      "type": "Wondrous item",
+      "desc": "While wearing this belt, your Strength score changes to 27. The item has no effect on you if your Strength without the belt is equal to or greater than 27.",
+      "rarity": "legendary",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 241
+    },
+    {
+      "slug": "belt-of-storm-giant-strength",
+      "name": "Belt of Storm Giant Strength",
+      "type": "Wondrous item",
+      "desc": "While wearing this belt, your Strength score changes to 29. The item has no effect on you if your Strength without the belt is equal to or greater than 29.",
+      "rarity": "rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 242
+    },
+    {
+      "slug": "crystal-ball-of-mind-reading",
+      "name": "Crystal Ball of Mind Reading",
+      "type": "Wondrous item",
+      "desc": "The typical _crystal ball_, a very rare item, is about 6 inches in diameter. While touching it, you can cast the _scrying_ spell (save DC 17) with it.\n\nThe following _crystal ball_ variant is a legendary item and has additional properties.\n\n You can use an action to cast the detect thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this detect thoughts to maintain it during its duration, but it ends if scrying ends.",
+      "rarity": "legendary",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 243,
+      "price": 20000
+    },
+    {
+      "slug": "crystal-ball-of-telepathy",
+      "name": "Crystal Ball of Telepathy",
+      "type": "Wondrous item",
+      "desc": "The typical _crystal ball_, a very rare item, is about 6 inches in diameter. While touching it, you can cast the _scrying_ spell (save DC 17) with it.\n\nThe following _crystal ball_ variant is a legendary item and has additional properties.\n\n While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also use an action to cast the suggestion spell (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this suggestion to maintain it during its duration, but it ends if scrying ends. Once used, the suggestion power of the crystal ball can't be used again until the next dawn.",
+      "rarity": "legendary",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 244,
+      "price": 22000
+    },
+    {
+      "slug": "crystal-ball-of-true-seeing",
+      "name": "Crystal Ball of True Seeing",
+      "type": "Wondrous item",
+      "desc": "The typical _crystal ball_, a very rare item, is about 6 inches in diameter. While touching it, you can cast the _scrying_ spell (save DC 17) with it.\n\nThe following _crystal ball_ variant is a legendary item and has additional properties.\n\n While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell's sensor.",
+      "rarity": "legendary",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 245,
+      "price": 24000
+    },
+    {
+      "slug": "ebony-fly-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 246,
+      "price": 5500
+    },
+    {
+      "slug": "golden-lions-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThese gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 247,
+      "price": 5000
+    },
+    {
+      "slug": "ivory-goats-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThese ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others.\n\nThe goat of traveling can become a Large goat with the same statistics as a riding horse. It has 24 charges, and each hour or portion thereof it spends in beast form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all its charges.\n\nThe goat of travail becomes a giant goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.\n\nThe goat of terror becomes a giant goat for up to 3 hours. The goat can't attack, but you can remove its horns and use them as weapons. One horn becomes a lance, +1, and the other becomes a longsword, +2. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form. In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a DC 15 Wisdom saving throw or be frightened of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat's aura for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 248,
+      "price": 6000
+    },
+    {
+      "slug": "marble-elephant-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis marble statuette is about 4 inches high and long. It can become an elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 249,
+      "price": 4000
+    },
+    {
+      "slug": "obsidian-steed-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis polished obsidian horse can become a nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.",
+      "rarity": "very rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 250,
+      "price": 4500
+    },
+    {
+      "slug": "onyx-dog-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\n This onyx statuette of a dog can become a mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has darkvision out to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 251,
+      "price": 5000
+    },
+    {
+      "slug": "serpentine-owl-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis serpentine statuette of an owl can become a giant owl for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 252,
+      "price": 6000
+    },
+    {
+      "slug": "silver-raven-figurine-of-wondrous-power",
+      "name": "Figurine of Wondrous Power",
+      "type": "Wondrous item",
+      "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\n This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the animal messenger spell on it at will.",
+      "rarity": "uncommon",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 253,
+      "price": 400
+    },
+    {
+      "slug": "brass-horn-of-valhalla",
+      "name": "Brass Horn of Valhalla",
+      "type": "Wondrous item",
+      "desc": "You can use an action to blow this horn. In response, 3d4+3 warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.\n\nIf you blow the horn without having proficiency with all simple weapons, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 254,
+      "price": 4000
+    },
+    {
+      "slug": "bronze-horn-of-valhalla",
+      "name": "Bronze Horn of Valhalla",
+      "type": "Wondrous item",
+      "desc": "You can use an action to blow this horn. In response, 4d4+4 warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.\n\nIf you blow the horn without having proficiency with all simple weapons, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.",
+      "rarity": "very rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 255,
+      "price": 6000
+    },
+    {
+      "slug": "iron-horn-of-valhalla",
+      "name": "Iron Horn of Valhalla",
+      "type": "Wondrous item",
+      "desc": "You can use an action to blow this horn. In response, 5d4+5 warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.\n\nIf you blow the horn without having proficiency with all simple weapons, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.",
+      "rarity": "legendary",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 256,
+      "price": 9000
+    },
+    {
+      "slug": "ioun-stone-agility",
+      "name": "Ioun Stone of Agility",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYour Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 257,
+      "price": 3000
+    },
+    {
+      "slug": "ioun-stone-awareness",
+      "name": "Ioun Stone of Awareness",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYou can't be surprised while this dark blue rhomboid orbits your head",
+      "rarity": "rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 258,
+      "price": 8000
+    },
+    {
+      "slug": "ioun-stone-fortitude",
+      "name": "Ioun Stone of Fortitude",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\n Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 259,
+      "price": 3000
+    },
+    {
+      "slug": "ioun-stone-greater-absorption",
+      "name": "Ioun Stone of Greater Absorption",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nWhile this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you",
+      "rarity": "legendary",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 260,
+      "price": 28000
+    },
+    {
+      "slug": "ioun-stone-insight",
+      "name": "Ioun Stone of Insight",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYour Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 261,
+      "price": 3000
+    },
+    {
+      "slug": "ioun-stone-intellect",
+      "name": "Ioun Stone of Intellect",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYour Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 262,
+      "price": 3000
+    },
+    {
+      "slug": "ioun-stone-leadership",
+      "name": "Ioun Stone of Leadership",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYour Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 263,
+      "price": 3000
+    },
+    {
+      "slug": "ioun-stone-mastery",
+      "name": "Ioun Stone of Mastery",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYour proficiency bonus increases by 1 while this pale green prism orbits your head.",
+      "rarity": "legendary",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 264,
+      "price": 15000
+    },
+    {
+      "slug": "ioun-stone-protection",
+      "name": "Ioun Stone of Protection",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYou gain a +1 bonus to AC while this dusty rose prism orbits your head.",
+      "rarity": "rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 265,
+      "price": 1500
+    },
+    {
+      "slug": "ioun-stone-regeneration",
+      "name": "Ioun Stone of Regeneration",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYou regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point.",
+      "rarity": "legendary",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 266,
+      "price": 4000
+    },
+    {
+      "slug": "ioun-stone-reserve",
+      "name": "Ioun Stone of Reserve",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nThis vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4-1 levels of stored spells chosen by the GM.\n\nAny creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.\n\nWhile this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.",
+      "rarity": "rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 267,
+      "price": 6000
+    },
+    {
+      "slug": "ioun-stone-strength",
+      "name": "Ioun Stone of Strength",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYour Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.",
+      "rarity": "very rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 268,
+      "price": 3000
+    },
+    {
+      "slug": "ioun-stone-awareness",
+      "name": "Ioun Stone of Awareness",
+      "type": "Wondrous item",
+      "desc": "An _Ioun stone_ is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun stone_ exist, each type a distinct combination of shape and color.\n\nWhen you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.\n\nA stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.\n\nYou don't need to eat or drink while this clear spindle orbits your head.",
+      "rarity": "rare",
+      "requires_attunement": "requires attunement",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 269,
+      "price": 1000
     }
   ],
   "enchantments": []
