@@ -340,7 +340,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 18,
-      "price": 15000
+      "price": 14500
     },
     {
       "slug": "berserker-axe",
@@ -436,7 +436,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 26,
-      "price": 800
+      "price": 700
     },
     {
       "slug": "bracers-of-defense",
@@ -472,7 +472,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 29,
-      "price": 1000
+      "price": 990
     },
     {
       "slug": "broom-of-flying",
@@ -724,7 +724,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 50,
-      "price": 240000
+      "price": 540000
     },
     {
       "slug": "defender",
@@ -1072,7 +1072,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 79,
-      "price": 750
+      "price": 800
     },
     {
       "slug": "gloves-of-swimming-and-climbing",
@@ -1132,7 +1132,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 84,
-      "price": 3500
+      "price": 3000
     },
     {
       "slug": "headband-of-intellect",
@@ -1300,7 +1300,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 98,
-      "price": 4000
+      "price": 3800
     },
     {
       "slug": "iron-flask",
@@ -1312,7 +1312,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 99,
-      "price":150000
+      "price": 150000
     },
     {
       "slug": "javelin-of-lightning",
@@ -2116,7 +2116,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 166,
-      "price": 5000
+      "price": 4500
     },
     {
       "slug": "ring-of-three-wishes",
@@ -2380,7 +2380,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 188,
-      "price": 10
+      "price": 15
     },
     {
       "slug": "spellguard-shield",
@@ -2452,7 +2452,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 194,
-      "price": 13000
+      "price": 12000
     },
     {
       "slug": "staff-of-power",
@@ -2728,7 +2728,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 217,
-      "price": 300
+      "price": 350
     },
     {
       "slug": "vorpal-sword",
@@ -2932,7 +2932,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 234,
-      "price": 1500
+      "price": 1600
     },
     {
       "slug": "winged-boots",
@@ -2981,8 +2981,8 @@
       "document__title": "Systems Reference Document",
       "id": 238,
       "price": 35000
-   },
-   {
+    },
+    {
       "slug": "belt-of-stone-giant-strength",
       "name": "Belt of Stone Giant Strength",
       "type": "Wondrous item",
@@ -3028,7 +3028,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 242,
-      "price": 150000
+      "price": 180000
     },
     {
       "slug": "crystal-ball-of-mind-reading",
@@ -3068,7 +3068,7 @@
     },
     {
       "slug": "ebony-fly-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Ebony Fly)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.",
       "rarity": "rare",
@@ -3080,7 +3080,7 @@
     },
     {
       "slug": "golden-lions-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Golden Lions)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThese gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.",
       "rarity": "rare",
@@ -3092,7 +3092,7 @@
     },
     {
       "slug": "ivory-goats-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Ivory Goats)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThese ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others.\n\nThe goat of traveling can become a Large goat with the same statistics as a riding horse. It has 24 charges, and each hour or portion thereof it spends in beast form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all its charges.\n\nThe goat of travail becomes a giant goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.\n\nThe goat of terror becomes a giant goat for up to 3 hours. The goat can't attack, but you can remove its horns and use them as weapons. One horn becomes a lance, +1, and the other becomes a longsword, +2. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form. In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a DC 15 Wisdom saving throw or be frightened of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat's aura for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.",
       "rarity": "rare",
@@ -3104,7 +3104,7 @@
     },
     {
       "slug": "marble-elephant-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Marble Elephant)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis marble statuette is about 4 inches high and long. It can become an elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.",
       "rarity": "rare",
@@ -3116,7 +3116,7 @@
     },
     {
       "slug": "obsidian-steed-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Obsidian Steed)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis polished obsidian horse can become a nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.",
       "rarity": "very rare",
@@ -3128,7 +3128,7 @@
     },
     {
       "slug": "onyx-dog-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Onyx Dog)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\n This onyx statuette of a dog can become a mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has darkvision out to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.",
       "rarity": "rare",
@@ -3140,7 +3140,7 @@
     },
     {
       "slug": "serpentine-owl-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Serpentine Owl)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\nThis serpentine statuette of an owl can become a giant owl for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.",
       "rarity": "rare",
@@ -3152,7 +3152,7 @@
     },
     {
       "slug": "silver-raven-figurine-of-wondrous-power",
-      "name": "Figurine of Wondrous Power",
+      "name": "Figurine of Wondrous Power (Silver Raven)",
       "type": "Wondrous item",
       "desc": "A _figurine of wondrous power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.\n\nThe creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.\n\nThe creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.\n\n This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the animal messenger spell on it at will.",
       "rarity": "uncommon",
@@ -3364,7 +3364,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 270,
-      "price": 2000 
+      "price": 2000
     },
     {
       "slug": "potion-of-stone-giant-strength",
@@ -3376,7 +3376,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 271,
-      "price": 1500 
+      "price": 1500
     },
     {
       "slug": "potion-of-fire-giant-strength",
@@ -3388,7 +3388,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 272,
-      "price": 3000 
+      "price": 3000
     },
     {
       "slug": "potion-of-cloud-giant-strength",
@@ -3400,7 +3400,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 273,
-      "price": 5000 
+      "price": 5000
     },
     {
       "slug": "potion-of-storm-giant-strength",
@@ -3412,7 +3412,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 274,
-      "price": 6500 
+      "price": 6500
     },
     {
       "slug": "potion-of-healing-greater",
@@ -3436,7 +3436,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 276,
-      "price": 450 
+      "price": 450
     },
     {
       "slug": "potion-of-healing-supreme",
@@ -3448,7 +3448,7 @@
       "document__slug": "wotc-srd",
       "document__title": "Systems Reference Document",
       "id": 277,
-      "price": 1250 
+      "price": 1250
     },
     {
       "slug": "spell-scroll-level-one",
@@ -3605,7 +3605,101 @@
       "document__title": "Systems Reference Document",
       "id": 290,
       "price": 16000
+    },
+    {
+      "slug": "armor-1",
+      "name": "Armor, +1",
+      "type": "Armor (light, medium, or heavy)",
+      "desc": "You have a +1 bonus to AC while wearing this armor",
+      "rarity": "rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 291,
+      "price": 1500
+    },
+    {
+      "slug": "armor-2",
+      "name": "Armor, +2",
+      "type": "Armor (light, medium, or heavy)",
+      "desc": "You have a +2 bonus to AC while wearing this armor",
+      "rarity": "very rare",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 292,
+      "price": 4000
+    },
+    {
+      "slug": "armor-3",
+      "name": "Armor, +3",
+      "type": "Armor (light, medium, or heavy)",
+      "desc": "You have a +3 bonus to AC while wearing this armor",
+      "rarity": "legendary",
+      "requires_attunement": "",
+      "document__slug": "wotc-srd",
+      "document__title": "Systems Reference Document",
+      "id": 293,
+      "price": 16000
     }
   ],
-  "enchantments": []
+  "enchantments": [
+    {
+      "id": 1,
+      "name": "Certain Death",
+      "requirement": "Weapon (any)",
+      "price": 5000,
+      "desc": "Whenever damage is dealt with this weapon, the target cannot regain hit points until the start of the wielders next turn",
+      "requires_attunement": ""
+    },
+    {
+      "id": 2,
+      "name": "Corpse Slayer",
+      "requirement": "Weapon +1 (any)",
+      "price": 4000,
+      "desc": "Whenever damage is dealt with this weapon, the target cannot regain hit points until the start of the wielders next turn",
+      "requires_attunement": "requires attunement"
+    },
+    {
+      "id": 3,
+      "name": "Cutting Edge",
+      "requirement": "Weapon (slashing)",
+      "price": 1700,
+      "desc": "When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.\n\nWhen you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage.\n\nOn a critical hit, roll a Dexterity check against the targets AC - if you beat it, you sever one of the targets limbs, assuming it has any.\n\nIn addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.",
+      "requires_attunement": "requires attunement"
+    },
+    {
+      "id": 4,
+      "name": "Dancing Weapon",
+      "requirement": "Weapon (any)",
+      "price": 2000,
+      "desc": "You can use a bonus action to toss this magic weapon into the air and speak the command word. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The weapon uses your attack roll and ability score modifier to damage rolls.\n\nWhile the weapon hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the weapon to attack one creature within 5 feet of it.\n\nAfter the hovering weapon attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.",
+      "requires_attunement": "requires attunement"
+    },
+    {
+      "id": 5,
+      "name": "Defender",
+      "requirement": "Weapon +3 (any)",
+      "price": 24000,
+      "desc": "The first time you attack with this weapon on each of your turns, you can transfer some or all of the weapon's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.",
+      "requires_attunement": "requires attunement"
+    },
+    {
+      "id": 6,
+      "name": "Dragon Slayer",
+      "requirement": "Weapon +1, +2, +3 (any)",
+      "price": 4000,
+      "desc": "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage. For the purpose of this weapon, dragon refers to any creature with the dragon type, including dragon turtles and wyverns.",
+      "requires_attunement": "requires attunement"
+    },
+    {
+      "id": 7,
+      "name": "Flame Tongue",
+      "requirement": "Weapon (slashing or piercing)",
+      "price": 5000,
+      "desc": "You can use a bonus action to speak this magic weapon's command word, causing flames to erupt from it. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the weapon is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the weapon.",
+      "requires_attunement": "requires attunement"
+    }
+  ],
+  "orders": []
 }
